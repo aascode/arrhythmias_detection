@@ -5,7 +5,7 @@
 
 AD (Arrhythmias Detection) is a repo that investigates variant autoencoder(AE) in feature extraction, and applies them to classify from Electrocardiogram(ECG) to arrhythmias.
 
-Now AD includes 4 AE as feature extractor, and classify by using Random Forest. 
+Now AD includes 4 AE as feature extractor, and classify by using Random Forest (can be applied with SVM or softmax classifier, too). 
 
 # Arrhythmias Data
 
