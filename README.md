@@ -5,9 +5,9 @@
 
 AD (Arrhythmias Detection) is a repo that investigates variant autoencoder(AE) in feature extraction, and applies them to classify from Electrocardiogram(ECG) to arrhythmias. 
 
-Situation: We found five types of ECG from MIT-BIH arrhythmias database includes "Normal", "Paced Beat", "Premature Ventricular Contraction", "Right Bundle Branch Block" and "Left Bundle Branch Block".
-Task: It's necessary to find a better way on finding the pattern from ECG and classify an ECG signal to normal or other arrhythmias.
-Actions: Now AD includes 4 AE as feature extractor, and classify by using Random Forest (can be applied with SVM or softmax classifier, too).
+- Situation: We found five types of ECG from MIT-BIH arrhythmias database includes "Normal", "Paced Beat", "Premature Ventricular Contraction", "Right Bundle Branch Block" and "Left Bundle Branch Block".
+- Task: It's necessary to find a better way on finding the pattern from ECG and classify an ECG signal to normal or other arrhythmias.
+- Actions: Now AD includes 4 AE as feature extractor, and classify by using Random Forest (can be applied with SVM or softmax classifier, too).
 
 
 # Arrhythmias Data
